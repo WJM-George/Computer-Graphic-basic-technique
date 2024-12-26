@@ -1,0 +1,8 @@
+﻿  hw1.cpp
+C:\code\CSCI420\assign2_coreOpenGL_starterCode\hw1\hw1.cpp(621,23): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\code\CSCI420\assign2_coreOpenGL_starterCode\hw1\Bin\Release\hw1.exe

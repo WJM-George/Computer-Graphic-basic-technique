@@ -1,0 +1,4 @@
+C:\code\USC Fall2024 Exchange\CSCI 420 Code\assign1_coreOpenGL_starterCode\hw1\Bin\Debug\hw1.exe
+C:\code\USCexchange\CSCI 420 Code\assign1_coreOpenGL_starterCode\hw1\Bin\Debug\hw1.exe
+C:\code\CSCI420\assign1_coreOpenGL_starterCode\hw1\Bin\Debug\hw1.exe
+C:\code\CSCI420\assign2_coreOpenGL_starterCode\hw1\Bin\Debug\hw1.exe
